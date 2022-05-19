@@ -6,7 +6,7 @@ namespace task003
     {
         static void Main(string[] args)
         {
-             Console.Write("Введите число: ");
+            Console.Write("Введите число: ");
             string sa = Console.ReadLine();
             int a = int.Parse(sa);
             int sum = 0;
